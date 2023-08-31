@@ -1,23 +1,17 @@
 The Old Version of Cool MineOS
-About
 
 Installation
 -----------------------------------------------------------
-
-It is also recommended to add a wireless modem to connect computers to the home network. Now you can turn on the computer. By default, the OpenOS boots from the inserted floppy, you just have to install it on your hard disk, similar to installing a real OS. Use the **install** command:
+Install Command:
 
 ![](https://i.imgur.com/lpwwQD4.png?1)
 
-After the installation is complete, you will be prompted to make the hard disk bootable, and restart the computer. After rebooting, you can start installing MineOS. To do this, enter the following command in the console:
-
     pastebin run 0nm5b1ju - not work anymore
 
-The computer will be analyzed for compliance with the minimum requirements, after which a pretty installer will be launched. You can change some system options to your taste, and, agreeing with the license agreement, install MineOS.
-
-How to develop MineOS applications
+Creating Software for MineOS
 -----------------------------------------------------------
 
-Each MineOS application is a directory with **.app** extension, which has the following contents:
+Each MineOS Software is a directory with **.app** extension, which has the following contents:
 
 ![](https://i.imgur.com/o6uiNBJ.png)
 
